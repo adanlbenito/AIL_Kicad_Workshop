@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BelaMini)(type KiCad)(uri ${KIPRJMOD}/BelaMini.pretty)(options "")(descr ""))
+  (lib (name TPA2016D2RTJR)(type KiCad)(uri ${KIPRJMOD}/TPA2016D2RTJR)(options "")(descr ""))
+)

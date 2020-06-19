@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name BelaMini)(type Legacy)(uri ${KIPRJMOD}/BelaMini.lib)(options "")(descr ""))
+  (lib (name TPA2016D2RTJR)(type Legacy)(uri ${KIPRJMOD}/TPA2016D2RTJR/TPA2016D2RTJR.lib)(options "")(descr ""))
+)
