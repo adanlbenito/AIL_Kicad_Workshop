@@ -1,12 +1,12 @@
 ##  Kicad 5
-[Download link](https://kicad-pcb.org/download/)
+* [Download link](https://kicad-pcb.org/download/)
 
 ## Libraries
 
 ### Kicad
-*[Symbols](https://github.com/kicad/kicad-symbols)
-*[Footprints](https://github.com/KiCad/kicad-footprints)
-*[3D Models](https://github.com/KiCad/kicad-packages3D)
+* [Symbols](https://github.com/kicad/kicad-symbols)
+* [Footprints](https://github.com/KiCad/kicad-footprints)
+* [3D Models](https://github.com/KiCad/kicad-packages3D)
 
 ### Digi-Key
 * [Github link](https://github.com/Digi-Key/digikey-kicad-library)
@@ -16,7 +16,7 @@
 * [Github link](https://github.com/sparkfun/SparkFun-KiCad-Libraries/tree/master/Footprints)
 
 ### SnapEDA
-[link](https://www.snapeda.com/home/)
+* [link](https://www.snapeda.com/home/)
 
 ## Action plugins
 * [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
@@ -24,14 +24,19 @@
 * [ViaStitching + CircuilarZone](https://github.com/jsreynaud/kicad-action-scripts)
 * [Teardrops](https://github.com/NilujePerchut/kicad_scripts)
 * [Replicate Layout](https://github.com/MitjaNemec/Kicad_action_plugins)
+* [KiKit: panelizatiobn](https://github.com/yaqwsx/KiKit)
+* [svg2shenzhen](https://github.com/badgeek/svg2shenzhen)
 
-## Other
+## Other resources
+* [Interesting Engineering youtube channel](https://www.youtube.com/channel/UCkJRycUz2CylxpiP-zMePow)
+* [Hackaday U Kicad + Freecad course](https://hackaday.io/project/172360-introduction-to-kicad-and-freecad)
+* [Digikey tutorial](https://www.digikey.com/en/resources/design-tools/kicad)
+* [More tutorials](https://kicad-pcb.org/help/tutorials/) (keep in mind that Kicad changed quite a lot on the latest revisions so older tutorials may be confusing).
 
-*[svg2shenzhen](https://github.com/badgeek/svg2shenzhen)
+## Kicad Conference: KiCon
+* [2020 edition (online)](https://2020.kicad-kicon.com/)
 
-
-
-# Resources
+# Resources for reference design
 
 ## Power Amp
 
