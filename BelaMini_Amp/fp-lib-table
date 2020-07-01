@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name BelaMini)(type KiCad)(uri ${KIPRJMOD}/BelaMini.pretty)(options "")(descr ""))
   (lib (name TPA2016D2RTJR)(type KiCad)(uri ${KIPRJMOD}/TPA2016D2RTJR)(options "")(descr ""))
+  (lib (name AIL_Kicad_Workshop)(type KiCad)(uri /Users/adanlbenito/Documents/workshops/AIL_Kicad_Workshop)(options "")(descr ""))
 )
